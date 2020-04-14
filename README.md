@@ -57,19 +57,25 @@ We also started working on a competitive analysis of other university COVID-19 i
 
 ### Usability Tests
 
+We were able to conduct 5 usability tests. Here are our main findings:
+
+![usability test findings](img/usability_tests.png)
+
+Out of 6 basic tasks, 3 had a struggle or failure rate of 50% (info on study abroad, what to do if showing COVID-19 symptoms, Odegaard status), 1 had 75% (navigate to COVID-19 page from UW home page), and 2 had 100% (navigate to UW COVID-19 cases dashboard, finding online tutoring). 
+ 
 ## Solution
 
 We envision a section-based dashboard for our solution.
 
 ![main dashboard](img/main_dashboard.png)	
-Upon opening the portal, users are greeted with UW COVID-19 Information organized into categories in a card-view: UW Resources (Official UW Resources), UW Messages (Official UW Messages, Responses (Student/staff pieces, opinion or otherwise), Statistics (Data sources), and Community (Resources and activities meant to  help others connect during self isolation). Each section will have a more button bringing the user to a dedicated page for that specific section. (These more butons will be more semantically named later in our design process.) Further, there will also be a top banner displaying the most recently posted UW official message. 
+Upon opening the portal, users are greeted with UW COVID-19 Information organized into categories in a card-view: UW Resources (Official UW Resources), UW Messages (Official UW Messages), Responses (Student/staff pieces, opinion or otherwise), Statistics (Data sources), and Community (Resources and activities meant to  help others connect during self isolation). Each section will have a "more" button bringing the user to a dedicated page for that specific section. (These "more" butons will be more semantically named later in our design process.) Further, there will also be a top banner displaying the most recently posted UW official message. 
 
 ![section view](img/section_view.png)
 
-When clicking the “More” buttons, the user will be taken to that section’s own page, which would have more detailed links. There is then also a side pseudo-navigation just in case the user needs to view another section.
+When clicking the “More” buttons, the user will be taken to that section’s own page, which would have more detailed links. Under each section header there will be "breadcrumbs" of where the user currenlty is in the web app, to ensure a sense of system location. There is then also a side pseudo-navigation just in case the user needs to view another section. This side nav will be sticky and always available to the user regardless of their scroll position. 
 
 ![submit a resource form](img/submit_form.png)
 
-Users can also submit resources that may not be available on the page. It consolidates the many virtual events that are happening in the UW community. These events are usually on facebook or segregated from each department. In these isolating times, it would be beneficial for the community to gather together even if it is on a virtual plane.
+Users can also submit resources that may not be available on our web app. We hope that by including this feature, that the UW community would be more compelled to share virtual events that may happening. These events are usually on Facebook or segregated from each department. In these isolating times, it would be beneficial for the community to gather together even if it is on a virtual plane.
 
 
