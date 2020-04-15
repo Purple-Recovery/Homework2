@@ -53,7 +53,7 @@ The UW COVID-19 page is quite text-heavy and scroll-reliant, and the interface f
 
 ### Competitive Analysis
 
-We also started working on a competitive analysis of other university COVID-19 information portals and usability testing on UW's COVID-19 page. We hope to implement findings from both in later iterations of our solution.
+We also started working on a competitive analysis of other university COVID-19 information portals and usability testing on UW's COVID-19 page. Specifically, we took a look at the University of California Berkeley's portal for student accessible information on the Corona virus outbreak. It is broken up between resource categories and dates of updates. The header also contains a banner relaying the most recent update to university operations and resource posts. Like UW's own page, when each section is expanded in the Berkeley site it creates a large drop down of explanations and also helpful links. We hope to implement findings from both in later iterations of our solution.
 
 ### Usability Tests
 
